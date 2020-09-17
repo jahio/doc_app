@@ -1,0 +1,24 @@
+{
+  "resources": [
+    {
+      "name": "Video Games",
+      "explanation": null,
+      "examples": [
+        {
+          "description": "Create a new video game",
+          "link": "video_games/create_a_new_video_game.json",
+          "groups": "all",
+          "route": "/games",
+          "method": "post"
+        },
+        {
+          "description": "Get the list of video games",
+          "link": "video_games/get_the_list_of_video_games.json",
+          "groups": "all",
+          "route": "/games",
+          "method": "get"
+        }
+      ]
+    }
+  ]
+}
