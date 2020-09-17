@@ -46,7 +46,7 @@
       "request_content_type": "application/json",
       "response_status": 200,
       "response_status_text": "OK",
-      "response_body": "{\n  \"video_game\": {\n    \"id\": 2,\n    \"title\": \"Assassin's Creed Valhalla\",\n    \"url\": \"https://www.ubisoft.com/en-us/game/assassins-creed/valhalla\",\n    \"release_date\": \"2020-11-10T07:00:00.000Z\",\n    \"created_at\": \"2020-09-17T18:45:27.422Z\",\n    \"updated_at\": \"2020-09-17T18:45:27.422Z\"\n  }\n}",
+      "response_body": "{\n  \"video_game\": {\n    \"id\": 2,\n    \"title\": \"Assassin's Creed Valhalla\",\n    \"url\": \"https://www.ubisoft.com/en-us/game/assassins-creed/valhalla\",\n    \"release_date\": \"2020-11-10T07:00:00.000Z\",\n    \"created_at\": \"2020-09-17T19:02:47.745Z\",\n    \"updated_at\": \"2020-09-17T19:02:47.745Z\"\n  }\n}",
       "response_headers": {
         "X-Frame-Options": "SAMEORIGIN",
         "X-XSS-Protection": "1; mode=block",
@@ -55,10 +55,10 @@
         "X-Permitted-Cross-Domain-Policies": "none",
         "Referrer-Policy": "strict-origin-when-cross-origin",
         "Content-Type": "application/json; charset=utf-8",
-        "ETag": "W/\"c3473d51587ea6051532bea8a017fe01\"",
+        "ETag": "W/\"05d1463f010d988a621aed014c3fb764\"",
         "Cache-Control": "max-age=0, private, must-revalidate",
-        "X-Request-Id": "2b55cee5-0c86-4b1b-a52b-7145209d02fc",
-        "X-Runtime": "0.006972",
+        "X-Request-Id": "8d4ba440-ea92-4b05-87b2-9bd83a8504e1",
+        "X-Runtime": "0.007209",
         "Content-Length": "249"
       },
       "response_content_type": "application/json; charset=utf-8",
